@@ -7,7 +7,7 @@
     <h1>The Super-Superhero System</h1>
     <h2>Superhero Home Page</h2>
 </header>
-<p>What would you likje to do?</p>
+<p>What would you like to do?</p>
 <ul>
     <li><a href="insertSuperhero.php">Insert a Superhero</a></li>
     <li><a href="displaySuperheros.php">Display all Superheros</a></li>
